@@ -10,8 +10,12 @@ to work in any specialized areas of IT. Due to my personal curiosity, I
 decided to investigate if this is a founded claim or not.I wanted to see
 what the data says to this effect.
 
-File Description: The files used are the dataset file (.csv) and the
-python jupyter notebook contains the code for the analysis.
+File Description: The files used are the dataset folder which can be downloaded
+from the link below and the python jupyter notebook contains the code for the analysis.
+
+Inspecting the Code: When going through the code, change the file path presented to 
+the path where you store the downloaded data.
+
 
 Outcome: At the end of the analysis, it was deduced that having a degree
 or any form of college experience plays a major role in getting a job in
