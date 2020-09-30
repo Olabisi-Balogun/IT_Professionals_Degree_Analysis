@@ -1,4 +1,5 @@
 # IT_Professionals_Degree_Analysis
+
 Installation: Anaconda distribution is required and Python version 3
 
 Project Motivation: This project analyzes the data collected from Stack
