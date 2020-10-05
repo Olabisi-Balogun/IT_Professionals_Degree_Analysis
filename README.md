@@ -17,8 +17,8 @@ what the data says to this effect.
 The files used are the dataset folder which can be downloaded
 from the link below and the python jupyter notebook contains the code for the analysis.
 
-## Inspecting the Code"
-When going through the code, change the file path presented to 
+## Running the Code:
+If you want to run the code, change the file path presented to 
 the path where you store the downloaded data.
 
 
