@@ -16,6 +16,7 @@ what the data says to this effect.
 ## File Description:
 The files used are the dataset folder which can be downloaded
 from the link below and the python jupyter notebook contains the code for the analysis.
+Visualization of analysis are saved as png files
 
 ## Running the Code:
 If you want to run the code, change the file path presented to 
@@ -36,3 +37,12 @@ The dataset used can be downloaded from this link:
 ## Link to Article on Medium:
 I have written an article on this analysis. 
 The link to the article: https://medium.com/@s.olabisi/college-experience-could-play-a-role-in-getting-a-job-in-tech-b3a40f4fc598
+
+## License
+MIT License
+
+Copyright (c) [2020] [Olabisi Balogun]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this work and its associated documentation files including without limitation the rights
+to use, copy, and modify the work. 
